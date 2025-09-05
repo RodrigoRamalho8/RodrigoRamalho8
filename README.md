@@ -5,7 +5,7 @@ I'm in the 4th semester and I'm looking for an internship so I can start and adv
 
 I dedicate my free time to studying languages, currently majoring in English, and monitoring new technologies, always keeping an eye on the market.
 
-- 🔭 I’m currently working for Nota Control (https://notacontrol.com.br/home/)
+- 🔭 I’m currently working for Nota Control as Software Developer (https://notacontrol.com.br/home/)
 - 🌱 I’m currently learning API connections to Web Develop
 - 📫 How to reach me: rodrigogarcia.ramalho@gmail.com
 
