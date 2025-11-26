@@ -1,6 +1,6 @@
 ## Good to see you here...
 
-At age of 24, I am and academic in technology area, studying Software Engineering at Sociedade de Ensino Superior Estácio de Sá and also Software Development, tech course, at Senac Hub Academy. Currently specializing and delving deeper into Angular, Java and .NET.
+At age of 24, I am an academic in technology area, studying Software Engineering at Sociedade de Ensino Superior Estácio de Sá and also Software Development, tech course, at Senac Hub Academy. Currently specializing and delving deeper into Angular, Java and .NET.
 I'm in the 8th semester and currently working as a software developer.
 
 I've already tried plenty of code languages and each of them had their own return for me.
