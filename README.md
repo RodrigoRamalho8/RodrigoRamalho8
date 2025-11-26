@@ -1,9 +1,13 @@
 ## Good to see you here...
 
-Academic in technology area, studying Software Engineering at Sociedade de Ensino Superior Estácio de Sá and also Software Development, tech course, at Senac Hub Academy. Currently specializing and delving deeper into Python.
-I'm in the 4th semester and I'm looking for an internship so I can start and advance my career in the technology market.
+At age of 24, I am and academic in technology area, studying Software Engineering at Sociedade de Ensino Superior Estácio de Sá and also Software Development, tech course, at Senac Hub Academy. Currently specializing and delving deeper into Angular, Java and .NET.
+I'm in the 8th semester and currently working as a software developer.
 
-I dedicate my free time to studying languages, currently majoring in English, and monitoring new technologies, always keeping an eye on the market.
+I've already tried plenty of code languages and each of them had their own return for me.
+
+Made part of various Code Marathons at my location, most of them in Python.
+
+I dedicate my free time to studying languages, currently graduated in english with B2 grade, and monitoring new technologies, always keeping an eye on the market.
 
 - 🔭 I’m currently working for Nota Control as Software Developer (https://notacontrol.com.br/home/)
 - 🌱 I’m currently learning API connections to Web Develop
